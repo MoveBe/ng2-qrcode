@@ -27,7 +27,7 @@
     "postinstall": "typings install"
   },
   "dependencies": {
-    "qrcodejs2": "^0.0.2"
+    "qrcodejs2": "git+https://github.com/jaufgang/qrcodejs.git"
   },
   "peerDependencies": {
     "@angular/core": "^2.0.0-rc.4",
