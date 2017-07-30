@@ -27,7 +27,7 @@
     "postinstall": "typings install"
   },
   "dependencies": {
-    "qrcodejs2": "git+https://github.com/movebe/qrcodejs.git"
+    "qrcodejs2": "https://github.com/movebe/qrcodejs"
   },
   "peerDependencies": {
     "@angular/core": "^2.0.0-rc.4",
